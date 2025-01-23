@@ -1,3 +1,3 @@
 cloud-aws,gcp,azure
 
-server->jenkins,gitlab
+server->jenkins,gitlab,github
